@@ -19,7 +19,7 @@ The dataset includes details about sales, customers, payment methods, revenue, p
 ...  
 16. Product line with the highest VAT contribution.  
 
-👉 Full queries available in **[Walmart_sales_project.sql](🏬 Walmart Sales SQL Analysis/SQL_Queries/Walmart_sales_project.sql)**
+👉 Full queries available in **[Walmart_sales_project.sql](./Walmart_sales_project.sql)**
 ---
 
 ## 🛠 Tools Used
